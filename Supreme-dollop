@@ -1,0 +1,5 @@
+Pkg update
+Pkg install git
+Git clone https://GitHub.com/htr-tech/supreme-dollop
+CD supreme-dollop
+CD bash supreme-dollop.sh
